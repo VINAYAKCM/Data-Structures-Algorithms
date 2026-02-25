@@ -1,4 +1,4 @@
-#Find ceil of target in a sorted array
+#Find floor of target in a sorted array
 # arr = [1, 2, 8, 10, 10, 12, 19]
 # target = 5
 # output = 2
